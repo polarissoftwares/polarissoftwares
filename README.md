@@ -1,16 +1,22 @@
-### Hi there 👋
+# Polaris Software - Portfolio Repository
 
-<!--
-**polarissoftwares/polarissoftwares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/polarissoftwares/site/blob/8fc12a6e6a963df0d67e1e3a6d957dd0a34ec4fe/Assets/img/LogoPolaris.jpg" alt="Logo empresa Polaris">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nossa História
+
+A Polaris é uma empresa de desenvolvimento de software nascida no ano de 2022. Desde sua fundação, a Polaris tem se destacado como uma força inovadora, comprometida em transformar ideias em soluções de software eficientes.
+
+## Nossa Missão
+
+Na Polaris, acreditamos no poder transformador da tecnologia. Nossa missão é oferecer soluções de software que não apenas atendam às necessidades de nossos clientes, mas também impulsionem o crescimento de seus negócios. Buscamos constantemente a excelência, combinando criatividade, experiência técnica e um profundo entendimento das demandas do mercado.
+
+## Nossa Visão
+
+Buscamos ser líderes na criação de soluções de software inovadoras que redefinam os padrões da indústria. Queremos ser reconhecidos globalmente pelo nosso compromisso com a excelência, pela qualidade de nossos produtos e pelo impacto positivo que proporcionamos aos negócios de nossos clientes.
+
+## Contato
+
+Para mais informações, entre em contato conosco pelo e-mail: [contato.polarissoftwares@gmail.com](mailto:contato.polarissoftwares@gmail.com)
