@@ -1,4 +1,4 @@
-# Polaris Softwares - Seja bem vindo(a) ao nosso Repository
+# Polaris Softwares - Seja bem vindo(a) ao nosso Perfil 😉
 
 <p align="center">
   <img src="https://github.com/polarissoftwares/site/blob/8fc12a6e6a963df0d67e1e3a6d957dd0a34ec4fe/Assets/img/LogoPolaris.jpg" alt="Logo empresa Polaris">
